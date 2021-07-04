@@ -1,4 +1,4 @@
-#Fylo-dark-theme-landing-page
+#Fylo-dark-theme-landing-page. 
 This is the first time I am building a project like this. 
 This is my version of the static fylo dark theme page done with HTML & CSS.
 My page needs a lot of work and edits because I am new to web development.
